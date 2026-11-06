@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Never upload medical images or large model files
+data/images/*
+!data/images/.gitkeep
+*.pt
+*.pth
+.env
