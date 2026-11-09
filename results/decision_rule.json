@@ -1,0 +1,12 @@
+{
+  "method": "class-conditional split conformal on Platt-calibrated probabilities",
+  "alpha_tb": 0.05,
+  "alpha_not": 0.05,
+  "platt": {
+    "a": 0.9260892120326314,
+    "b": -2.5590290350182636
+  },
+  "tb_in_set_if_p_at_least": 0.22204488764984243,
+  "not_in_set_if_p_at_most": 0.02553469295917627,
+  "fitted_on": "val"
+}
