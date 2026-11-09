@@ -225,3 +225,4 @@ data/images/*
 *.pt
 *.pth
 .env
+.venv/
