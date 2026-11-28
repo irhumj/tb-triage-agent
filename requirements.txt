@@ -9,3 +9,5 @@ scipy
 matplotlib
 # Agent layer
 mcp>=2
+pymupdf
+rank-bm25
