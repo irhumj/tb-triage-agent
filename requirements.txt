@@ -1,0 +1,11 @@
+# Core ML
+torch
+torchvision
+opencv-python
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+# Agent layer
+mcp>=2
