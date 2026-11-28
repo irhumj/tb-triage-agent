@@ -11,3 +11,4 @@ matplotlib
 mcp>=2
 pymupdf
 rank-bm25
+google-genai
